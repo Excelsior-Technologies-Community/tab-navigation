@@ -13,12 +13,16 @@
 - Easy to understand and extend
 - Clean, minimal styling with CSS
 
-![Tab Navigation UI](./src/assets/tab%20navigation1.png)
-![Tab Navigation UI](./src/assets/tab%20navigation2.png)
-![Tab Navigation UI](./src/assets/tab%20navigation3.png)
+<img width="1919" height="998" alt="tab navigation1" src="https://github.com/user-attachments/assets/d8224d33-1cac-4fbf-b1c9-b32526ed5961" />
+
+<img width="1919" height="1017" alt="tab navigation2" src="https://github.com/user-attachments/assets/636fbba2-966c-4992-8589-ce6c2c5b0256" />
+
+<img width="1919" height="1017" alt="tab navigation2" src="https://github.com/user-attachments/assets/7aa055fa-96f2-4807-8064-d046c7eb029f" />
 
 
 ## Project Structure
+
+```
 
 my-tab-nav/
 ├── index.html
@@ -29,6 +33,7 @@ my-tab-nav/
 │ ├── index.css
 │ └── App.css
 └── README.md
+```
 
 ## Getting Started
 
